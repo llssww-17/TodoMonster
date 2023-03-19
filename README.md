@@ -1,6 +1,6 @@
 # :heavy_check_mark: TodoMonster
 
-<p> 'TodoMonster'는 할 일을 체크하게 되면 수행한 수에 따라 캐릭터가 성장할 수 있는 TODO 앱입니다.</p></br>
+<p>할 일을 체크하게 되면 수행한 수에 따라 캐릭터가 성장할 수 있는 TODO 앱입니다.</p></br>
 
 ## :date: 프로젝트 기간
 <p>2022년 10월 19일 ~ 11월 22일</p></br>
