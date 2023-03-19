@@ -34,32 +34,32 @@ $ node server.js
 
 ## :computer: 실행 화면
 - 메인페이지
-<img src="https://user-images.githubusercontent.com/87286246/226154021-92ab6ba7-53f7-4d5e-b6ae-ecf336883b4b.png" height="580px" width="280px">
+<img src="https://user-images.githubusercontent.com/87286246/226154021-92ab6ba7-53f7-4d5e-b6ae-ecf336883b4b.png" height="562px" width="271px">
 
 - 회원가입
-<img src="https://user-images.githubusercontent.com/87286246/226154090-96672db3-4958-4ddb-95e0-59c5d255f1d8.png" height="580px" width="280px">
+<img src="https://user-images.githubusercontent.com/87286246/226154090-96672db3-4958-4ddb-95e0-59c5d255f1d8.png" height="562px" width="271px">
 
 - 로그인
-<img src="https://user-images.githubusercontent.com/87286246/226154510-490c8896-aabe-413f-99fc-fbdb80c6d74e.png" height="580px" width="280px">
+<img src="https://user-images.githubusercontent.com/87286246/226154510-490c8896-aabe-413f-99fc-fbdb80c6d74e.png" height="562px" width="271px">
 
 - 프로필 변경
-<img src="https://user-images.githubusercontent.com/87286246/226154522-e01db68d-8a67-485e-ace9-329b0cee210b.png" height="580px" width="280px">
+<img src="https://user-images.githubusercontent.com/87286246/226154522-e01db68d-8a67-485e-ace9-329b0cee210b.png" height="562px" width="271px">
 
 - 카테고리 페이지
 <div>
-<img src="https://user-images.githubusercontent.com/87286246/226154687-92e300ff-1982-4a82-8d1f-6ab4942e1c3f.png" height="580px" width="280px">
-<img src="https://user-images.githubusercontent.com/87286246/226154691-9e1f2d59-9ef8-4042-b752-087bcd7c36fc.png" height="580px" width="280px">
-<img src="https://user-images.githubusercontent.com/87286246/226154694-9307975e-b877-4422-a42e-010d4eecbfdd.png" height="580px" width="280px">
+<img src="https://user-images.githubusercontent.com/87286246/226154687-92e300ff-1982-4a82-8d1f-6ab4942e1c3f.png" height="562px" width="271px">
+<img src="https://user-images.githubusercontent.com/87286246/226154691-9e1f2d59-9ef8-4042-b752-087bcd7c36fc.png" height="562px" width="271px">
+<img src="https://user-images.githubusercontent.com/87286246/226154694-9307975e-b877-4422-a42e-010d4eecbfdd.png" height="562px" width="271px">
 </div></br>
 
 - 일정 및 목록 페이지
-<img src="https://user-images.githubusercontent.com/87286246/226154869-a41f3ac9-e8c7-43a5-99b6-64b11676b001.png" height="580px" width="280px">
+<img src="https://user-images.githubusercontent.com/87286246/226154869-a41f3ac9-e8c7-43a5-99b6-64b11676b001.png" height="562px" width="271px">
 
 - 사이드바
-<img src="https://user-images.githubusercontent.com/87286246/226154871-cfe0c963-b679-4f35-9e02-5541304946b3.png" height="580px" width="280px">
+<img src="https://user-images.githubusercontent.com/87286246/226154871-cfe0c963-b679-4f35-9e02-5541304946b3.png" hheight="562px" width="271px">
 
 - 검색 페이지
-<img src="https://user-images.githubusercontent.com/87286246/226154997-87ede706-8dc8-4d74-a838-0b2b168f1281.png" height="580px" width="280px">
+<img src="https://user-images.githubusercontent.com/87286246/226154997-87ede706-8dc8-4d74-a838-0b2b168f1281.png" height="562px" width="271px">
 
 - 다른 사용자 페이지
-<img src="https://user-images.githubusercontent.com/87286246/226154997-87ede706-8dc8-4d74-a838-0b2b168f1281.png" height="580px" width="280px">
+<img src="https://user-images.githubusercontent.com/87286246/226154997-87ede706-8dc8-4d74-a838-0b2b168f1281.png" height="562px" width="271px">
