@@ -59,7 +59,7 @@ $ node server.js
 <img src="https://user-images.githubusercontent.com/87286246/226154871-cfe0c963-b679-4f35-9e02-5541304946b3.png" height="570px" width="270px">
 
 - 검색 페이지
-<img src="https://user-images.githubusercontent.com/87286246/226154997-87ede706-8dc8-4d74-a838-0b2b168f1281.png" height="562px" width="271px">
+<img src="" height="570px" width="270px">
 
 - 다른 사용자 페이지
-<img src="https://user-images.githubusercontent.com/87286246/226154997-87ede706-8dc8-4d74-a838-0b2b168f1281.png" height="562px" width="271px">
+<img src="https://user-images.githubusercontent.com/87286246/226154997-87ede706-8dc8-4d74-a838-0b2b168f1281.png" height="570px" width="270px">
