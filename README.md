@@ -1,6 +1,16 @@
 # :heavy_check_mark: TodoMonster
+<div align="center">
+<img src="https://user-images.githubusercontent.com/87286246/226154021-92ab6ba7-53f7-4d5e-b6ae-ecf336883b4b.png" height="570px" width="270px">
+</div>
+</br>
 
-<p>할 일을 체크하게 되면 수행한 수에 따라 캐릭터가 성장할 수 있는 TODO 앱입니다.</p></br>
+TodoMonster는 할 일을 체크하게 되면 수행한 수에 따라 캐릭터가 성장할 수 있는 TODO 앱입니다.
+- 기존 TODO 앱은 너무 단순해서 성취감을 얻어내기에는 부족합니다.
+- 캐릭터 육성 요소를 추가해 할 일 수행에 동기 부여가 됩니다.
+- 카테고리별로 할 일을 관리할 수 있습니다.
+- 다른 사용자를 검색할 수 있고, 팔로우를 통해 리스트를 공유할 수 있습니다.
+
+</br>
 
 ## :date: 프로젝트 기간
 <p>2022년 10월 19일 ~ 11월 22일</p></br>
@@ -59,7 +69,7 @@ $ node server.js
 <img src="https://user-images.githubusercontent.com/87286246/226154871-cfe0c963-b679-4f35-9e02-5541304946b3.png" height="570px" width="270px">
 
 - 검색 페이지
-<img src="" height="570px" width="270px">
+<img src="https://user-images.githubusercontent.com/87286246/226608983-4f3b6d69-1581-4749-943b-b4769a251552.png" height="570px" width="270px">
 
 - 다른 사용자 페이지
 <img src="https://user-images.githubusercontent.com/87286246/226154997-87ede706-8dc8-4d74-a838-0b2b168f1281.png" height="570px" width="270px">
